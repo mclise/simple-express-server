@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mclise/simple-express-server/issues"
   },
-  "homepage": "https://github.com/mclise/simple-express-server"
+  "homepage": "https://github.com/mclise/simple-express-server",
+  "dependencies": {
+    "express": "^4.8.0"
+  }
 }
